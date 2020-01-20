@@ -30,7 +30,7 @@
 # Hasil 15
 #![AltText](https://github.com/najmi10/Dasar-Dasar-HTML/blob/master/PrakHTML2C.png "Hasil Lima Belas")
 # Hasil 16
-#![AltText](https://github.com/najmi10/Dasar-Dasar-HTML/blob/master/PrakHTML3%20(1).png "Hasil Enam Belas")
+#![AltText]( "Hasil Enam Belas")
 
 
 
